@@ -3,7 +3,8 @@
   <a href=''><img src='https://img.shields.io/github/last-commit/UBRO32BIT/DVH_Store'></a>
   <a href=''><img src='https://img.shields.io/github/stars/UBRO32BIT/DVH_Store?style=social'></a>
   <a href=''><img src='https://img.shields.io/github/forks/UBRO32BIT/DVH_Store?style=social'></a>
-<h6>Web application to manage products and transactions (W.I.P)</h6>
+<h6>Web application to manage products and payments in a small store (Work in progress)</h6>
+<h6>The project is being implemented while I'm learning back-end so it'll take a lot of time to finish</h6>
 
 ## Technologies
 
